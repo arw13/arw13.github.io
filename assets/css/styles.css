@@ -228,6 +228,20 @@ p {
 .main-wrapper .projects-section .item {
   margin-bottom: 15px;
 }
+
+.main-wrapper .publication-title {
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.main-wrapper .publication-section .intro {
+  margin-bottom: 30px;
+}
+.main-wrapper .publication-section .item {
+  margin-bottom: 15px;
+}
+
 .skillset .item {
   margin-bottom: 15px;
   overflow: hidden;
@@ -291,11 +305,6 @@ p {
     position: relative;
     top: 1px;
   }
-}
-.autoResizeImage {
-    max-width: 100%;
-    height: auto;
-    width: auto;
 }
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
