@@ -12,8 +12,8 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #545E6C;
   background: #f5f5f5;
-  font-size: 16px;
-  padding: 10;
+  font-size: 14px;
+  padding: 30px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -45,7 +45,7 @@ p {
 }
 .wrapper {
   background: #4B6A78;
-  /* max-width: 960px; */
+  max-width: 960px;
   margin: 0 auto;
   position: relative;
   -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
